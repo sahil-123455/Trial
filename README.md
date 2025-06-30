@@ -1,2 +1,2 @@
 # Trial
-learning of github
+learning of github with APNA COLLEGE
